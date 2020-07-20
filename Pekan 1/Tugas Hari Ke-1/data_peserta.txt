@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Neldy Wijaya
+2. Email: neldy.wijaya80@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab: NelWijaya
+5. Akun Telegram: Siberius
