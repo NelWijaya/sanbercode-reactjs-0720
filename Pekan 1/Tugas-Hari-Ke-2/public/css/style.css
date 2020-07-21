@@ -1,0 +1,106 @@
+.utama{
+    width: 800px;
+    border: darkgrey 1px solid;
+    padding: 15px;
+}
+
+.utama h1{
+    text-align: center;
+}
+
+ol{
+    margin-bottom: 20px;
+}
+
+table td{
+    width: 150px;
+    padding: 10px 0px;
+}
+
+table textarea{
+    width: 400px;
+    height: 80px;
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+
+/*Bagian Index.html*/
+
+.menu_utama{
+    /*CSS reset untuk body*/
+    margin: 0;
+    padding: 0;
+    background: url("pattern.jpg");
+}
+
+header{
+    max-width: 100%;
+    width: 100%;
+    position: fixed;
+    background-color: whitesmoke;
+}
+
+header img{
+    float: left;
+}
+
+header nav{
+    float: right;
+}
+
+nav a{
+    font-weight: bold;
+    color: blue;
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0px 10px 0px 15px;
+}
+
+.kepala{
+    display: inline-block;
+}
+
+.section_index{
+    z-index: -1;
+    background-color: white;
+    width: 70%;
+    position: relative;
+    top: 70px;
+    margin: 0 15%;
+    padding-bottom: 20px;
+}
+
+.section_index h1{
+    text-align: center;
+}
+
+.section_index h1, .section_index h3, footer h5{
+    font-family: 'Slabo 27px', serif;
+}
+
+.section_index div{
+    padding: 0px 10px;
+}
+
+article a{
+    text-decoration: none;
+}
+
+footer{
+    display: block;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 100px 0px 0px 0px;
+    padding: 5px 0px;
+}
+
+#article-list div{
+    border-bottom: lightgrey 1px solid;
+    margin-bottom: 50px;
+}
